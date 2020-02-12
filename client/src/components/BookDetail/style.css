@@ -1,0 +1,13 @@
+.book-detail-box {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: red;
+  min-height: 80%;
+  width: 90%;
+  padding: 20px;
+  justify-content: center;
+  overflow: auto;
+  margin: auto;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
